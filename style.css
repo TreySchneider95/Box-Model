@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+}
+div{
+    text-align: center;
+    border-radius: 10px;
+    margin: 2px;
+}
+.header{
+    height: 60px;
+    background-color: red;
+}
+.side-nav{
+    width: 20%;
+    aspect-ratio: 1/1;
+    background-color: aqua;
+    display:inline-block;
+
+}
+.body{
+    display:inline-block;
+    background-color: black;
+    width: 77%;
+    aspect-ratio: 2/1;
+}
+.white{
+    color: white;
+}
+.footer{
+    width: 98%;
+    height: 60px;
+    background-color: gray;
+    position: absolute;
+    bottom: 0;
+}
